@@ -6,18 +6,12 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ProgressBar;
-import android.widget.Toast;
 
 //import com.appniche.JokeActivity;
 import com.appniche.builditbigger.R;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-
 import static com.appniche.jokedisplay.JokeDisplayActivity.LOG_TAG;
-
 
 /**
  * A placeholder fragment containing a simple view.
